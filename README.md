@@ -1,1 +1,6 @@
-# Movies-Rx
+- Dagger2
+- RxJava
+- Retrofit
+- Kotlin
+- MVVM
+- Navigation
